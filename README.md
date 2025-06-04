@@ -1,3 +1,5 @@
+<a name="start"></a>
+
 <p>
   <img src="https://github.com/user-attachments/assets/89e1464b-523d-411c-9e04-47cb436f9774" width="400">
 </p>
@@ -25,9 +27,11 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/mods-v1.0/danizzi-mods-v1.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD%20MODS-64419C?style=plastic&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
+
+<hr style="border: none; height: 2px;" />
 
 # CITIZENS
 
@@ -36,10 +40,9 @@ Click on what you want to see: ..........................................
 </p>
 
 <p>
-  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v1.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
-  </a>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v1.0.zip"><img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /></a><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
 </p>
+
 
 # 
 
@@ -48,8 +51,7 @@ Click on what you want to see: ..........................................
 </p>
 
 <p>
-  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v2.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v2.0.zip"><img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -61,7 +63,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v3.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -73,11 +75,12 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v4.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
-#
+
+<hr style="border: none; height: 2px;" />
 
 # RESHADES
 
@@ -87,7 +90,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizzi.ini">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -97,8 +100,10 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizziPvP.ini">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
-<a name="soundpack"></a>
+<hr style="border: none; height: 2px;" />
+
+# SOUNDPACKS
