@@ -15,11 +15,9 @@ Click on what you want to see: ..........................................
 ```
 
 
-  [<img src="https://img.shields.io/badge/%20MODS-64419C?style=flat" />](#mods) [<img src="https://img.shields.io/badge/%20CITIZENS-64419C?style=flat" />](#citizens) [<img src="https://img.shields.io/badge/%20RESHADES-64419C?style=flat" />](#reshades) [<img src="https://img.shields.io/badge/%20SOUNDPACK-64419C?style=flat" />](#soundpack)
-  
-<a name="mods"></a>
+  [<img src="https://img.shields.io/badge/%20MODS-64419C?style=flat" />](#MODS) [<img src="https://img.shields.io/badge/%20CITIZENS-64419C?style=flat" />](#CITIZENS) [<img src="https://img.shields.io/badge/%20RESHADES-64419C?style=flat" />](#RESHADES) [<img src="https://img.shields.io/badge/%20SOUNDPACK-64419C?style=flat" />](#SOUNPACK)
 
-## 
+# MODS
 
 <p>
   <img src="❀ images/mods.png" width="450">
@@ -81,7 +79,7 @@ Click on what you want to see: ..........................................
 
 #
 
-<a name="reshades"></a>
+# RESHADES
 
 <p>
   <img src="❀ images/reshade1.png" width="450">
