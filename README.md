@@ -27,7 +27,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/mods-v1.0/danizzi-mods-v1.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -40,7 +40,8 @@ Click on what you want to see: ..........................................
 </p>
 
 <p>
-  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v1.0.zip"><img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /></a><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v1.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /></a><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
 </p>
 
 
@@ -51,7 +52,8 @@ Click on what you want to see: ..........................................
 </p>
 
 <p>
-  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v2.0.zip"><img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v2.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -63,7 +65,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v3.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -75,7 +77,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v4.0.zip">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -90,7 +92,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizzi.ini">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
@@ -100,7 +102,7 @@ Click on what you want to see: ..........................................
 
 <p>
   <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizziPvP.ini">
-    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#mods"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" /><a href="#start"><img src="https://img.shields.io/badge/⇧%20-38a16b?style=plastic&logoColor=white" height="25" /></a>
   </a>
 </p>
 
