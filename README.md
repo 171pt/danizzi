@@ -1,6 +1,8 @@
 <p>
   <img src="https://github.com/user-attachments/assets/89e1464b-523d-411c-9e04-47cb436f9774" width="400">
 </p>
+
+[<img src="https://img.shields.io/badge/%20citizens-8A2BE2?style=flat" />](#citizens)
   
 ```ruby
 danizzi@fivem ───────────────────────────────────────────────────────────
@@ -9,6 +11,8 @@ Aspect Ratio:....................................................... 16:9
 DPI:............................................................. 800 dpi
 Sensitivity:.................................................. -44 ingame
 ```
+
+<a name="mods"></a>
 
 # 
 
@@ -23,6 +27,8 @@ Sensitivity:.................................................. -44 ingame
 </p>
 
 # 
+
+<a name="citizens"></a>
 
 <p>
   <img src="❀ images/citizen1.png" width="400">
