@@ -2,22 +2,27 @@
   <img src="https://github.com/user-attachments/assets/89e1464b-523d-411c-9e04-47cb436f9774" width="400">
 </p>
 
-[<img src="https://img.shields.io/badge/%20MODS-64419C?style=flat" />](#mods) [<img src="https://img.shields.io/badge/%20CITIZENS-64419C?style=flat" />](#citizens) [<img src="https://img.shields.io/badge/%20RESHADES-64419C?style=flat" />](#reshades) [<img src="https://img.shields.io/badge/%20SOUNDPACK-64419C?style=flat" />](#soundpack)
-  
+
 ```ruby
 danizzi@fivem ───────────────────────────────────────────────────────────
 Resolution:.................................................... 1920:1080
 Aspect Ratio:....................................................... 16:9
 DPI:............................................................. 800 dpi
 Sensitivity:.................................................. -44 ingame
+
+Download ──────────────────────────────────────────────────────────────── 
+Click on what you want to see: ..........................................
 ```
 
+
+  [<img src="https://img.shields.io/badge/%20MODS-64419C?style=flat" />](#mods) [<img src="https://img.shields.io/badge/%20CITIZENS-64419C?style=flat" />](#citizens) [<img src="https://img.shields.io/badge/%20RESHADES-64419C?style=flat" />](#reshades) [<img src="https://img.shields.io/badge/%20SOUNDPACK-64419C?style=flat" />](#soundpack)
+  
 <a name="mods"></a>
 
 ## 
 
 <p>
-  <img src="❀ images/mods.png" width="400">
+  <img src="❀ images/mods.png" width="450">
 </p>
 
 <p>
@@ -29,7 +34,7 @@ Sensitivity:.................................................. -44 ingame
 # CITIZENS
 
 <p>
-  <img src="❀ images/citizen1.png" width="400">
+  <img src="❀ images/citizen1.png" width="450">
 </p>
 
 <p>
@@ -41,7 +46,7 @@ Sensitivity:.................................................. -44 ingame
 # 
 
 <p>
-  <img src="❀ images/citizen2.png" width="400">
+  <img src="❀ images/citizen2.png" width="450">
 </p>
 
 <p>
@@ -53,7 +58,7 @@ Sensitivity:.................................................. -44 ingame
 # 
 
 <p>
-  <img src="❀ images/citizen3.png" width="400">
+  <img src="❀ images/citizen3.png" width="450">
 </p>
 
 <p>
@@ -65,7 +70,7 @@ Sensitivity:.................................................. -44 ingame
 # 
 
 <p>
-  <img src="❀ images/citizen4.png" width="400">
+  <img src="❀ images/citizen4.png" width="450">
 </p>
 
 <p>
@@ -77,5 +82,25 @@ Sensitivity:.................................................. -44 ingame
 #
 
 <a name="reshades"></a>
+
+<p>
+  <img src="❀ images/reshade1.png" width="450">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizzi.ini">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
+
+<p>
+  <img src="❀ images/reshadepvp.png" width="450">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/reshade/danizziPvP.ini">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
 
 <a name="soundpack"></a>
