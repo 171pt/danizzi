@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/89e1464b-523d-411c-9e04-47cb436f9774" width="400">
 </p>
 
-[<img src="https://img.shields.io/badge/%20citizens-8A2BE2?style=flat" />](#citizens)
+[<img src="https://img.shields.io/badge/%20MODS-64419C?style=flat" />](#mods) [<img src="https://img.shields.io/badge/%20CITIZENS-64419C?style=flat" />](#citizens) [<img src="https://img.shields.io/badge/%20RESHADES-64419C?style=flat" />](#reshades) [<img src="https://img.shields.io/badge/%20SOUNDPACK-64419C?style=flat" />](#soundpack)
   
 ```ruby
 danizzi@fivem ───────────────────────────────────────────────────────────
@@ -14,7 +14,7 @@ Sensitivity:.................................................. -44 ingame
 
 <a name="mods"></a>
 
-# 
+## 
 
 <p>
   <img src="❀ images/mods.png" width="400">
@@ -26,9 +26,7 @@ Sensitivity:.................................................. -44 ingame
   </a>
 </p>
 
-# 
-
-<a name="citizens"></a>
+# CITIZENS
 
 <p>
   <img src="❀ images/citizen1.png" width="400">
@@ -75,3 +73,9 @@ Sensitivity:.................................................. -44 ingame
     <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
   </a>
 </p>
+
+#
+
+<a name="reshades"></a>
+
+<a name="soundpack"></a>
