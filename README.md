@@ -1,21 +1,71 @@
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/89e1464b-523d-411c-9e04-47cb436f9774" width="400">
 </p>
   
 ```ruby
-danizzi@fivem ─────────────────────────────────────────
-Resolution:.................................. 1920:1080
-Aspect Ratio:..................................... 16:9
-DPI:........................................... 800 dpi
-Sensitivity:................................ -44 ingame
+danizzi@fivem ───────────────────────────────────────────────────────────
+Resolution:.................................................... 1920:1080
+Aspect Ratio:....................................................... 16:9
+DPI:............................................................. 800 dpi
+Sensitivity:.................................................. -44 ingame
 ```
 
+# 
 
+<p>
+  <img src="❀ images/mods.png" width="400">
+</p>
 
-<p align="center">
+<p>
   <a href="https://github.com/171pt/danizzi/releases/download/mods-v1.0/danizzi-mods-v1.0.zip">
-    <img src="https://img.shields.io/badge/❀%20DANIZZI%20MODS-64419C?style=plastic&logoColor=white" width="125" />
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20MODS-64419C?style=plastic&logoColor=white" height="25" />
   </a>
 </p>
 
+# 
 
+<p>
+  <img src="❀ images/citizen1.png" width="400">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v1.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
+
+# 
+
+<p>
+  <img src="❀ images/citizen2.png" width="400">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v2.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
+
+# 
+
+<p>
+  <img src="❀ images/citizen3.png" width="400">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v3.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
+
+# 
+
+<p>
+  <img src="❀ images/citizen4.png" width="400">
+</p>
+
+<p>
+  <a href="https://github.com/171pt/danizzi/releases/download/citizen/danizzi-citizen-v4.0.zip">
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20THIS%20CITIZEN-64419C?style=plastic&logoColor=white" height="25" />
+  </a>
+</p>
